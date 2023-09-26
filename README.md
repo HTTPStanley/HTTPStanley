@@ -14,6 +14,8 @@
 
 - 🔭 I’m currently working on [Wilbar Associates](https://www.wilbarassociates.co.uk/home)
 
+- 🔭 I’m currently working on [DPD Coaching](https://app.dpdcoaching.co.uk/home)
+
 - 👯 I’m looking to collaborate on [Divinity Economy - A Minecraft Economy](https://github.com/HTTPStanley/DivinityEconomy) ([Modrinth](https://modrinth.com/plugin/divinity-economy))
 
 </P>
