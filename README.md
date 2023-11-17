@@ -10,11 +10,15 @@
 
 - 📫 How to reach me **Mail@WebTailors.co.uk**
 
-- 🔭 I’m currently working on [Whizz Kids Holiday Clubs](https://www.whizzkidsclub.co.uk/home)
+- 🔭 I’m currently working on [Web Tailors](https://webtailors.co.uk)
 
-- 🔭 I’m currently working on [Wilbar Associates](https://www.wilbarassociates.co.uk/home)
+- 🔭 I’m currently working on [Whizz Kids Holiday Clubs](https://whizzkidsclub.co.uk)
 
-- 🔭 I’m currently working on [DPD Coaching](https://app.dpdcoaching.co.uk/home)
+- 🔭 I’m currently working on [Wilbar Associates](https://wilbarassociates.co.uk)
+
+- 🔭 I’m currently working on [DPD Coaching](https://dpdcoaching.co.uk)
+
+- 🔭 I’m currently working on [DPD Coaching](https://www.divinitycraft.org)
 
 - 👯 I’m looking to collaborate on [Divinity Economy - A Minecraft Economy](https://github.com/HTTPStanley/DivinityEconomy) ([Modrinth](https://modrinth.com/plugin/divinity-economy))
 
