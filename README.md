@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [DPD Coaching](https://dpdcoaching.co.uk)
 
-- 🔭 I’m currently working on [DPD Coaching](https://www.divinitycraft.org)
+- 🔭 I’m currently working on [DivinityCraft](https://www.divinitycraft.org)
 
 - 👯 I’m looking to collaborate on [Divinity Economy - A Minecraft Economy](https://github.com/HTTPStanley/DivinityEconomy) ([Modrinth](https://modrinth.com/plugin/divinity-economy))
 
